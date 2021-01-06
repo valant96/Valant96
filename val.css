@@ -20,6 +20,7 @@ p > code
 	color: #333333;
 }
 
+
 .time {
 	margin-bottom: 2em;
 }
@@ -29,9 +30,24 @@ p > code
   margin-right: 0.5rem;
 }
 
+.accordion {
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+
 .tutorial-title {
 	margin-top: 2em;
 	margin-bottom: 3em;
+}
+
+.tutorial-body {
+	margin-top: 2em;
+	margin-bottom: 3em;
+}
+
+.contact {
+	margin-top: 2em;
+	margin-bottom: 2em;
 }
 
 .main-img {
