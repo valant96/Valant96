@@ -20,6 +20,35 @@ p > code
 	color: #333333;
 }
 
+.socials i {
+	font-size: 50px;
+	padding-left: 1rem;
+	padding-right: 1rem;
+}
+
+.youtube a {
+	color: #f52320;
+}
+
+.youtube a:hover {
+	color: #cc1d1b;
+}
+
+.twitter a {
+	color: #1da1f2;
+}
+
+.twitter a:hover {
+	color: #198bd1;
+}
+
+.discord a {
+	color: #7289d9;
+}
+
+.discord a:hover {
+	color: #5465a1;
+}
 
 .time {
 	margin-bottom: 2em;
@@ -42,7 +71,8 @@ p > code
 	margin-bottom: 3em;
 }
 
-.contact {
+.contact,
+.socials {
 	margin-top: 2em;
 	margin-bottom: 2em;
 }
